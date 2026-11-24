@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MovieTracker.Api/MovieTracker.Api.csproj" />
+  <Project Path="MovieTracker.App/MovieTracker.App.csproj" />
+  <Project Path="MovieTracker.Shared/MovieTracker.Shared.csproj" />
+</Solution>
